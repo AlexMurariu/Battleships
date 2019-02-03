@@ -1,0 +1,1 @@
+A simple console based battleship game developed for the fundamentel of programming course.
